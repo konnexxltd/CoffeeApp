@@ -1,0 +1,33 @@
+{
+  "hot" : "Hot",
+  "cold" : "Cold",
+  "calories_row" : "{} cal (approx)",
+  "dashboard" : "Dashboard",
+  "more" : "More",
+  "show_qr_code" : {
+    "title" : "Show QR Code",
+    "description" : "Scan this QR code to open {}"
+  },
+  "edit_preferences" : {
+    "title" : "Edit Preferences",
+    "description" : "Edit the details of {}"
+  },
+  "delete_preferences" : {
+    "title" : "Delete Preferences",
+    "description" : "Delete {}"
+  },
+  "more_section" : {
+    "personal_information" : {
+        "title" : "Personal Information",
+        "description" : "Update your personal information."
+        },
+    "color_customization" : {
+        "title" : "Color Customization",
+        "description" : "Customize the colors of the app."
+        },
+    "sign_out" : {
+        "title" : "Sign Out",
+        "description" : "Sign out of the app."
+        }
+    }
+  }
